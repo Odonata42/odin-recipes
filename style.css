@@ -1,0 +1,25 @@
+body {
+    background-color: grey;
+}
+h1, h2 {
+    color: red;
+}
+
+h1 {
+    font-size:38px;
+    text-decoration: underline;
+}
+h2 {
+    font-size:18px;
+}
+li {
+    color: green;
+}
+
+ol li{
+    font-style: italic;
+}
+
+ul li{
+    color: orange;
+}
